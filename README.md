@@ -44,6 +44,9 @@
 ![Динамика порта](output/port_trend.png)
 ![Зависимость](output/zav_trend.png)
 
+## Источники для построения графиков разных видов:
+https://www.datacamp.com/zh/tutorial/types-of-data-plots-and-how-to-create-them-in-python 
+https://github.com/Fechin/reference/blob/main/source/_posts/matplotlib.md
 ## Структура репозитория
 - `notebooks/santos_analysis.ipynb` — Jupyter Notebook с кодом загрузки данных, расчетами, графиками и выводами.
 - `data/santos_data.txt` — исходный датасет с показателями.
